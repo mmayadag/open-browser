@@ -17,7 +17,7 @@ or
     
 ### MacOS instructions
 1.
-    [how to run on mac - 1 .png](https://github.com/mmayadag/open-browser/blob/master/mac/how%20to%20allow%20on%20mac/how%20to%20run%20on%20mac%20-%201%20.png)
+    [how to run on mac - 1 .png](https://github.com/mmayadag/open-browser/raw/master/mac/how%20to%20allow%20on%20mac/how%20to%20run%20on%20mac%20-%201%20.png)
 2.
-    [how to run on mac - 2 .png](https://github.com/mmayadag/open-browser/blob/master/mac/how%20to%20allow%20on%20mac/how%20to%20run%20on%20mac%20-%202.png)
+    [how to run on mac - 2 .png](https://github.com/mmayadag/open-browser/raw/master/mac/how%20to%20allow%20on%20mac/how%20to%20run%20on%20mac%20-%202.png)
 ----
